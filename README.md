@@ -8,6 +8,18 @@
 - **Also prepared for:** MathWorks Minidrone Competition India 2026
 - **Report:** [docs/DSP_Project_Report.pdf](docs/DSP_Project_Report.pdf) · **Slides:** [docs/DSP_Project_Presentation.pptx](docs/DSP_Project_Presentation.pptx) · **Proposal:** [docs/DSP_Assignment_Proposal.pdf](docs/DSP_Assignment_Proposal.pdf) · **Demo videos:** [demo/](demo/)
 
+## Demo
+
+Short sped-up previews. Click a preview to open the full video.
+
+**1. Path following with IMU, voice and camera** ([full video, 1 min 7 s](demo/1_path_following_imu_voice_camera.mp4))
+
+[![Path following with IMU, voice and camera](demo/previews/1_path_following.gif)](demo/1_path_following_imu_voice_camera.mp4)
+
+| **2. Maze: shortest path from a photo** ([full video, 16 s](demo/2_maze_shortest_path.mp4)) | **3. Obstacle map in a corridor, Explore** ([full video, 2 min 26 s](demo/3_obstacle_map_corridor.mp4)) |
+|:---:|:---:|
+| [![Maze: shortest path from a photo](demo/previews/2_maze.gif)](demo/2_maze_shortest_path.mp4) | [![Obstacle map in a corridor](demo/previews/3_obstacle_map.gif)](demo/3_obstacle_map_corridor.mp4) |
+
 ## Team
 
 | Name | Roll number |
@@ -87,12 +99,6 @@ Full method, figures and discussion are in the [report](docs/DSP_Project_Report.
 | ![Inertial path](docs/img/Inertial_path.png) | ![Altitude path](docs/img/Altitude_path.png) |
 | ![Closed loop](docs/img/Closed_loop_result.png) | ![Accuracy vs noise](docs/img/Vision_accuracy_vs_noise.png) |
 
-## Demo videos
-
-1. [Path following with IMU, voice and camera](demo/1_path_following_imu_voice_camera.mp4)
-2. [Maze: shortest path from a photo](demo/2_maze_shortest_path.mp4)
-3. [Obstacle map in a corridor (Explore)](demo/3_obstacle_map_corridor.mp4)
-
 ## How to use the app on a phone
 
 1. Open **https://rayonbiswas.github.io/minidrone-dsp-lab/** in Chrome (Android) or Safari (iPhone). Nothing needs to be installed.
@@ -137,7 +143,8 @@ minidrone-dsp-lab/
 ├── demo/
 │   ├── 1_path_following_imu_voice_camera.mp4
 │   ├── 2_maze_shortest_path.mp4
-│   └── 3_obstacle_map_corridor.mp4
+│   ├── 3_obstacle_map_corridor.mp4
+│   └── previews/               # animated previews shown in this README
 ├── matlab/
 │   ├── minidrone_dsp_sim.m
 │   ├── esp32_mpu6050_analysis.m
