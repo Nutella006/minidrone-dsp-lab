@@ -27,10 +27,10 @@ Short sped-up previews. Click a preview to open the full video.
 | Rayon Biswas | 241090016 |
 | Zaid Faruqui | 241090024 |
 | Piyush Patil | 241090053 |
-| Hood Shaikh | 241090069 |
 | Tanisha Nevrekar | 241091048 |
 | Ananya Rane | 241091062 |
-| Arpit k Rajput | 251090907 |
+| Hood Shaikh | 241090069 |
+| Arpit K Rajput | 251090907 |
 
 ## Abstract
 
