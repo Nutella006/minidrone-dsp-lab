@@ -18,7 +18,7 @@
 | Hood Shaikh | 241090069 |
 | Tanisha Nevrekar | 241091048 |
 | Ananya Rane | 241091062 |
-| Arpit Rajput | 251090907 |
+| Arpit k Rajput | 251090907 |
 
 ## Abstract
 
