@@ -1,0 +1,17 @@
+# OS files
+.DS_Store
+Thumbs.db
+desktop.ini
+*~
+
+# MATLAB autosave and generated outputs
+*.asv
+*.mat
+*.csv
+# keep the sample beacon log that ships with the firmware
+!hardware/esp32_beacon/sample_log.csv
+slprj/
+*.slxc
+
+# Node
+node_modules/
